@@ -10,7 +10,7 @@ authors = [
 ]
 description = "A decorator that inspects functions. Logs function name, args and kwargs."
 readme = "README.md"
-requires-python = ">=3.7"
+requires-python = ">=3.6"
 classifiers = [
     "Programming Language :: Python :: 3",
     "License :: OSI Approved :: MIT License",
