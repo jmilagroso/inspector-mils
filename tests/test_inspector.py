@@ -3,7 +3,7 @@ tests/test_inspector.py
 """
 
 from unittest import TestCase
-from src.inspector_mils.inspector import inspect
+from inspector_mils.inspector import inspect
 
 
 class TestInspectorMils(TestCase):
