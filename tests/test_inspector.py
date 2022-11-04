@@ -3,16 +3,13 @@ tests/test_inspector.py
 """
 
 from unittest import TestCase
-from src.inspector_mils.inspector import inspect
+from inspector_mils.inspector import inspect
 
 
 class TestInspectorMils(TestCase):
     """
     TestInspectorMils
     """
-
-    def setUp(self) -> None:
-        return super().setUp()
 
     @inspect
     def test_should_success(self):
@@ -31,4 +28,3 @@ class TestInspectorMils(TestCase):
 
         self.assertIsInstance(self, TestInspectorMils)
         self.assertNotEqual(str(self), 'test_should_success (test_inspector.TestInspectorMils)')
-
