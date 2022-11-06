@@ -1,4 +1,4 @@
-# inspector_mils
+# inspector-mils
 
 [![PyPI version](https://badge.fury.io/py/inspector-mils.svg)](https://badge.fury.io/py/inspector-mils)
 [![CodeFactor](https://www.codefactor.io/repository/github/jmilagroso/inspector_mils/badge)](https://www.codefactor.io/repository/github/jmilagroso/inspector_mils)
